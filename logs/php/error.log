@@ -1,0 +1,4 @@
+[28-Jun-2022 12:28:40 UTC] PHP Parse error:  syntax error, unexpected 'add_theme_support' (T_STRING) in E:\Programming\Web Development\Local Sites\dannydaley\app\public\wp-content\themes\v3\functions.php on line 15
+[28-Jun-2022 14:45:47 UTC] PHP Parse error:  syntax error, unexpected 'the_excerpt' (T_STRING) in E:\Programming\Web Development\Local Sites\dannydaley\app\public\wp-content\themes\v3\index.php on line 14
+[28-Jun-2022 14:46:12 UTC] PHP Parse error:  syntax error, unexpected 'the_excerpt' (T_STRING) in E:\Programming\Web Development\Local Sites\dannydaley\app\public\wp-content\themes\v3\index.php on line 14
+[28-Jun-2022 14:46:14 UTC] PHP Parse error:  syntax error, unexpected 'the_excerpt' (T_STRING) in E:\Programming\Web Development\Local Sites\dannydaley\app\public\wp-content\themes\v3\index.php on line 14
